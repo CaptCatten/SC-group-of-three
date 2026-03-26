@@ -6,9 +6,8 @@ Authors:
 
 
 
-##Chaper A 
-
-ToDo: PartnerA
+## Chaper A 
+I am writing very interesting results. yes definately important results reviewer 2. 
 
 
 ##ChaperB
