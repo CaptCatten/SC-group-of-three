@@ -14,4 +14,9 @@ I am writing very interesting results. yes definately important results reviewer
 
 toDo: PatnerC
 
+##Chaper C
 
+toDo: Partner B
+
+This part will be part of the paper.
+Here we will present the comparison with the prevoius work. This will be an new hallmark of information. typcially blabla 
