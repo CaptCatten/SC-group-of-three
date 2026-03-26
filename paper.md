@@ -2,7 +2,12 @@
 Paperdraft
 Here we will write the next nature paper
 It will be very important!
-Authors: Napasorn N., Marian B, I refused by the way so you can't blame me
+
+
+
+
+Authors: Napasorn N., Marian B, Abhinay
+
 
 
 ## Chaper A 
