@@ -1,4 +1,4 @@
 # SC-group-of-three
-a Marian
-B lauren 
+a lauren
+b Marian
 c Abhinay
