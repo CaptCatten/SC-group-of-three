@@ -7,7 +7,7 @@ Authors:
 
 
 ## Chaper A 
-I am writing very interesting results. yes definately important results reviewer 2. 
+I am writing very interesting results. yes definately important results reviewer 2. A very beautiful figre! 
 
 
 ##ChaperB
