@@ -1,5 +1,5 @@
 #Titel
-Paperdrawft
+Paperdraft
 Here we will write the next nature paper
 It will be very important!
 Authors:
@@ -14,7 +14,10 @@ I am writing very interesting results. yes definately important results reviewer
 
 toDo: PatnerC
 
+I think this can be a very good nature paper. We can do it!
+
 ##Chaper C
+
 
 toDo: Partner B
 
