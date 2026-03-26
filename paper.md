@@ -2,8 +2,7 @@
 Paperdraft
 Here we will write the next nature paper
 It will be very important!
-Authors: lauren
-
+Authors: Napasorn N., Marian B
 
 
 ## Chaper A 
