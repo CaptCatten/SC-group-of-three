@@ -2,8 +2,9 @@
 Paperdraft
 Here we will write the next nature paper
 It will be very important!
-Authors: Abhinay
 
+
+Authors: Napasorn N., Marian B, Abhinay
 
 
 ## Chaper A 
